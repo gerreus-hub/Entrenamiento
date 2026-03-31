@@ -1,0 +1,18 @@
+{
+  "name": "Timer Entrenamiento PWA",
+  "short_name": "Entreno Timer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "lang": "es",
+  "description": "Temporizador de entrenamiento por intervalos instalable.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23121212'/%3E%3Ccircle cx='256' cy='256' r='172' fill='%231b5e20'/%3E%3Cpath d='M256 128v128l88 56' stroke='white' stroke-width='32' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
